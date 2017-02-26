@@ -1,1 +1,1 @@
-./rails server -b $IP -p $PORT
+./rails server -b 0.0.0.0
